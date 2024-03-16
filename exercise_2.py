@@ -1,6 +1,4 @@
 
-
-
 def index_power(numbers, n):
 
     try:
@@ -13,6 +11,7 @@ def index_power(numbers, n):
     
 
     return result
+
 
 
 def main():
